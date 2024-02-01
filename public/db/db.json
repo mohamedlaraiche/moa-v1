@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "TODO APP",
+    "image": "./projects/TODO-APP-MOA.png",
+    "stack": {
+      "one": "React",
+      "two": "Express",
+      "three": "MongoDB",
+      "four": "N/A"
+    },
+    "description": "This is a TODO APP, i use MERN stack in this app so i can be able to use the CRUD operations to practise on it.",
+    "live": "https://todo.molaraiche.com/",
+    "github": "https://github.com/morichian/todo-app"
+  },
+  {
+    "id": 2,
+    "name": "BLOGGY",
+    "image": "./projects/Bloogy-MOA.png",
+    "stack": {
+      "one": "React",
+      "two": "Express",
+      "three": "MongoDB",
+      "four": "MUI"
+    },
+    "description": "Bloggy is a blog website created with MERN stack to be able to create,update and delete blogs, i add picture upload option using multer.",
+    "live": "https://bloggy.molaraiche.com/",
+    "github": "https://github.com/mohamedlaraiche/bloggy-client"
+  },
+  {
+    "id": 3,
+    "name": "Fruitkha",
+    "image": "./projects/Fruitkha-MOA.png",
+    "stack": {
+      "one": "React",
+      "two": "MUI",
+      "three": "React icons",
+      "four": "N/A"
+    },
+    "description": "Fruitkha is a website who present a fruit store, with a blog section.",
+    "live": "https://fruitkha.molaraiche.com/",
+    "github": "https://github.com/mohamedlaraiche/fruitkha"
+  }
+]
